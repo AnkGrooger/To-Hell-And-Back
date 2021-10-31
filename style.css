@@ -64,15 +64,7 @@
 	height: 30%;
     background-color: lightgrey;
     float: left;
- } 
-
-.banner{
-    width: 100%;
-    height: 50%;
-    background-color:lightgrey;
-    float: left;
-    margin-left: 0.5ex;
-}   
+ }  
 
 ul {
     list-style-type: none;
