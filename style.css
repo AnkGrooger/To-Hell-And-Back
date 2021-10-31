@@ -39,31 +39,24 @@
     width: 100%;
 	height: 100%;
     background-color:white;
-    margin-left: 0.5ex;
-    margin-right: 0.5ex;
  }
 
  .content3{
     width: 100%;
 	height: 100%;
     background-color: lightseagreen; 
-    margin-left: 0.5ex;
-    margin-right: 0.5ex;
  }
 
  .content4{
     width: 100%;
 	height: 200%;
     background-color: lightblue;
-    margin-left: 0.5ex;
-    margin-right: 0.5ex;
  }
  
  .footer{
     width: 100%;
 	height: 30%;
     background-color: lightgrey;
-    float: left;
  }  
 
 ul {
