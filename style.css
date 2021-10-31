@@ -92,7 +92,7 @@ li a {
 
 li a:hover {
     background-color: grey;
-    border: lightgrey;
-    color: black;
+    border: 2px solid black;
+    color: orange;
 }  
 
