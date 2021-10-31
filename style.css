@@ -78,6 +78,7 @@ ul {
 li {
     float: left;
     border: lightgrey;
+    color:  black;
 }
 
 li a {
