@@ -77,7 +77,7 @@ ul {
 
 li {
     float: left;
-    border: 2px solid black;
+    border: 1px solid black;
     color:  black;
 }
 
@@ -87,7 +87,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    border: 2px solid black;
+    border: 1px  black;
 }
 
 li a:hover {
