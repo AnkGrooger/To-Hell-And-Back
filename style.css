@@ -1,30 +1,40 @@
 .header{
     width: 100%;
-    background-color:orange;
-    
-
+    background-color:white;
  } 
+
 .header  h1{
 	color: white;
 	font-family: Rockwell;
 	text-align: center;
-    
 }
+
+.banner{
+    width: 100%;
+    height: 50%;
+    background-color:lightgrey;
+    float: left;
+    margin-left: 0.5ex;
+}  
+
 .content1{
     width: 100%;
 	height: 100%;
     background-color:white;
  } 
+
  .content11{
     width: 100%;
 	height: 1000%;
     background-color: white ;  
  }
+
  .content12{
     width: 100%;
 	height: 100%;
     background-color:white;
  }
+
  .content2{
     width: 100%;
 	height: 100%;
@@ -32,6 +42,7 @@
     margin-left: 0.5ex;
     margin-right: 0.5ex;
  }
+
  .content3{
     width: 100%;
 	height: 100%;
@@ -39,6 +50,7 @@
     margin-left: 0.5ex;
     margin-right: 0.5ex;
  }
+
  .content4{
     width: 100%;
 	height: 200%;
@@ -47,26 +59,21 @@
     margin-right: 0.5ex;
  }
  
-
-
-  
-
-
-
-
  .footer{
     width: 100%;
 	height: 30%;
-    background-color: dimgray;
+    background-color: lightgrey;
     float: left;
  } 
+
 .banner{
     width: 100%;
     height: 50%;
-    background-color:grey;
+    background-color:lightgrey;
     float: left;
     margin-left: 0.5ex;
 }   
+
 ul {
     list-style-type: none;
     margin: 0;  
@@ -74,9 +81,11 @@ ul {
     overflow: hidden;
     background-color: orange;
 }
+
 li {
     float: left;
 }
+
 li a {
     display: block;
     color: white;
@@ -84,6 +93,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
 li a:hover {
     background-color: blue;
 }  
