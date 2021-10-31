@@ -1,6 +1,3 @@
-body{
-
-}
 .header{
     width: 100%;
     background-color:orange;
@@ -13,30 +10,20 @@ body{
 	text-align: center;
     
 }
-
-
 .content1{
     width: 100%;
 	height: 100%;
     background-color:white;
-    margin-left: 0.5ex;
-    margin-right: 0.5ex;
-    float: left;
  } 
  .content11{
     width: 100%;
 	height: 1000%;
-    background-color: lightsalmon ; 
-    margin-left: 0.5ex;
-    margin-right: 0.5ex; 
-    float: left;   
+    background-color: white ;  
  }
  .content12{
     width: 100%;
 	height: 100%;
-    background-color:lightsalmon;
-    margin-left: 0.5ex;
-    margin-right: 0.5ex;
+    background-color:white;
  }
  .content2{
     width: 100%;
@@ -45,7 +32,6 @@ body{
     margin-left: 0.5ex;
     margin-right: 0.5ex;
  }
- 
  .content3{
     width: 100%;
 	height: 100%;
@@ -53,7 +39,6 @@ body{
     margin-left: 0.5ex;
     margin-right: 0.5ex;
  }
- 
  .content4{
     width: 100%;
 	height: 200%;
