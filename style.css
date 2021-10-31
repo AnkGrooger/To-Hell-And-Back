@@ -13,7 +13,8 @@
 .banner{
     width: 110%;
     height: 30%;
-    background-color:lightgrey;
+    background-color:white;
+    color: black;
 }  
 
 .content1{
@@ -79,7 +80,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: white;
-    border: lightgrey;
 }
 
 li {
@@ -92,6 +92,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border: lightgrey
 }
 
 li a:hover {
