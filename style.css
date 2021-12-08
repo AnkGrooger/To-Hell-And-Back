@@ -2,7 +2,6 @@
     width: 100%;
     background-color:white;
  } 
-
 .header  h1{
 	color: white;
 	font-family: Rockwell;
@@ -12,77 +11,30 @@
 .contentall{
     background-color: #1e2729;
 }
-
 .banner{
     width: 100%;
     height: 30%;
     background-color:#1e2729;
     color: white;
-    padding-left: 30px;
 }  
-
-.content1{
-    width: 100%;
-	height: 100%;
-    background-color:#1e2729;
-    color: white;
- } 
-
- .content11{
-    width: 100%;
-	height: 1000%;
-    background-color: #1e2729 ;
-    color: white;  
- }
-
- .content12{
-    width: 100%;
-	height: 100%;
-    background-color:#1e2729;
-    color: white; 
- }
-
  .content2{
     width: 100%;
 	height: 100%;
     background-color:#1e2729;
     color: white; 
  }
-
  .padding{
      padding-left: 100px;
  }
  .padd{
     padding-left: 45px;
 }
-
- .content3{
-    width: 100%;
-	height: 100%;
-    background-color: #1e2729; 
-    color: white; 
- }
-
- .content4{
-    width: 100%;
-	height: 200%;
-    background-color: #1e2729;
-    color: white; 
- }
- .content4{
-    width: 100%;
-	height: 200%;
-    background-color: #1e2729;
-    color: white; 
- }
- 
  .footer{
     width: 100%;
 	height: 30%;
     background-color: #1e2729;
     color: white;
  }  
-
 ul {
     list-style-type: none;
     margin: 0;  
@@ -91,14 +43,12 @@ ul {
     background-color: white;
     border: lightgrey
 }
-
 li {
     float: left;
     border: 1px solid black;
     color:  black;
     background-color: #1e2729;
 }
-
 li a {
     display: block;
     color: black;
@@ -108,7 +58,6 @@ li a {
     border: 1px  black;
     background-color: lightgrey;
 }
-
 li a:hover {
     background-color: grey;
     border: 1px  black;
@@ -125,14 +74,133 @@ li a:hover {
   transform: scale(1.35);
   -ms-transform: scale(1.15); /* IE 9 */
   -webkit-transform: scale(1.15); /* Safari and Chrome */
-
 }
+.content1{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white;
+ } 
+ .content11{
+    width: 100%;
+	height: 1000%;
+    background-color: #1e2729 ;
+    color: white;  
+ }
+ .content12{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white; 
+ }
+ .content2{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white;
+ } 
+ .content21{
+    width: 100%;
+	height: 1000%;
+    background-color: #1e2729 ;
+    color: white;  
+ }
+ .content22{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white; 
+ }
+ .content3{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white;
+ } 
+ .content31{
+    width: 100%;
+	height: 1000%;
+    background-color: #1e2729 ;
+    color: white;  
+ }
+ .content32{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white; 
+ }
+ .content4{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white;
+ } 
+ .content41{
+    width: 100%;
+	height: 1000%;
+    background-color: #1e2729 ;
+    color: white;  
+ }
+ .content42{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white; 
+ }
+ .content5{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white;
+ } 
+ .content51{
+    width: 100%;
+	height: 1000%;
+    background-color: #1e2729 ;
+    color: white;  
+ }
+ .content52{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white; 
+ }
+ .content6{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white;
+ } 
+ .content61{
+    width: 100%;
+	height: 1000%;
+    background-color: #1e2729 ;
+    color: white;  
+ }
+ .content62{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white; 
+ }
+ .content7{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white;
+ } 
+ .content71{
+    width: 100%;
+	height: 1000%;
+    background-color: #1e2729 ;
+    color: white;  
+ }
+ .content72{
+    width: 100%;
+	height: 100%;
+    background-color:#1e2729;
+    color: white; 
+ }
 
-.content15 {
-
-}
-.container15{
-
-}
 
 
