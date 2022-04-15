@@ -1,13 +1,13 @@
 .header{
     width: 100%;
-    background-color:black;
+    background-color: #1e2729;
  } 
 
 .header  h1{
 	color: white;
 	font-family: Rockwell;
 	text-align: center;
-    background-color: black;
+    background-color: #1e2729;
 }
 
 .banner{
