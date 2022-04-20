@@ -49,7 +49,7 @@ li a:hover {
     color: white;
 }  
 
- .footer{
+.footer{
     width: 100%;
 	height: 30%;
     background-color: #1e2729;
@@ -63,7 +63,7 @@ ul {
     border: lightgrey
 }
 
-.p {
+.Text {
     color: white;
     background-color: #1e2729;
 }
