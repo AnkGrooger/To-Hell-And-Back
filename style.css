@@ -1,3 +1,30 @@
+li {
+    float: left;
+    border: 1px solid black;
+    color:  black;
+    background-color: #1e2729;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border: 1px  black;
+    background-color: lightgrey;
+}
+
+li a:hover {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border: 1px  black;
+    background-color: grey;
+}  
+
 * {
     margin: 0;
     padding: 0;
@@ -35,30 +62,3 @@ ul {
     background-color: white;
     border: lightgrey
 }
-
-li {
-    float: left;
-    border: 1px solid black;
-    color:  black;
-    background-color: #1e2729;
-}
-
-li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    border: 1px  black;
-    background-color: lightgrey;
-}
-
-li a:hover {
-    display: block;
-    color: blue;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    border: 1px  black;
-    background-color: grey;
-}  
