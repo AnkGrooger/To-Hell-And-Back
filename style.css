@@ -1,5 +1,5 @@
 .header{
-    width: 1920px;
+    width: 100%;
     background-color: #1e2729;
     margin: 0;
     padding: 0;
@@ -15,8 +15,8 @@
 }
 
 .banner{
-    width: 1920px;
-    height: 324px;
+    width: 100%;
+    height: 30%;
     background-color:#1e2729;
     color: white;
     margin: 0;
@@ -24,8 +24,8 @@
 }  
 
  .footer{
-    width: 1920px;
-	height: 324px;
+    width: 100%;
+	height: 30%;
     background-color: #1e2729;
     color: white;
     margin: 0;
@@ -66,3 +66,8 @@ li a:hover {
     margin: 0;
     padding: 0;
 }  
+
+p {
+    margin: 0;
+    padding: 0;
+}
