@@ -1,6 +1,8 @@
 .header{
     width: 1920px;
     background-color: #1e2729;
+    margin: 0;
+    padding: 0;
  } 
 
 .header  h1{
@@ -8,6 +10,8 @@
 	font-family: Rockwell;
 	text-align: center;
     background-color: #1e2729;
+    margin: 0;
+    padding: 0;
 }
 
 .banner{
@@ -15,19 +19,21 @@
     height: 324px;
     background-color:#1e2729;
     color: white;
+    margin: 0;
+    padding: 0;
 }  
 
  .footer{
-    width: 110%;
+    width: 1920px;
 	height: 324px;
     background-color: #1e2729;
     color: white;
+    margin: 0;
+    padding: 0;
  }  
 
 ul {
     list-style-type: none;
-    margin: 0;  
-    padding: 0;
     overflow: hidden;
     background-color: white;
     border: lightgrey
@@ -38,6 +44,8 @@ li {
     border: 1px solid black;
     color:  black;
     background-color: #1e2729;
+    margin: 0;
+    padding: 0;
 }
 
 li a {
@@ -48,10 +56,13 @@ li a {
     text-decoration: none;
     border: 1px  black;
     background-color: lightgrey;
+    margin: 0;
 }
 
 li a:hover {
     background-color: grey;
     border: 1px  black;
     color: blue;
+    margin: 0;
+    padding: 0;
 }  
